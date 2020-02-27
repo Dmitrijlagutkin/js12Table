@@ -1,0 +1,33 @@
+tr,
+td {
+	border: 2px solid #1b1b1b;
+	width: 200px;
+	height: 30px;
+}
+
+.tableHead {
+	color: #3b3b3b;
+	font-size: 18px;
+	font-weight: 900;
+}
+
+.Tablebody {
+	font-size: 18px;
+	color: #000;
+}
+
+.tableBodySecond {
+	color: red;
+}
+
+.tableBodyThird {
+	color: rgba(255, 0, 0, 0.5);
+}
+
+.tableBodyfourth {
+	color: green;
+}
+
+.tableBodyFifth {
+	font-style: italic;
+}
